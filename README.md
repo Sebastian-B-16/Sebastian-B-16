@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sebastian-B-16
 - 👀 I’m interested in Software development and game development 
-- 🌱 I’m currently learning Softare development with Python , C# 
+- 🌱 I’m currently learning Software development with Python , C# 
 - 💞️ I’m looking to collaborate on game development projects
 - 📫 How to reach me Linkedln - Sebastian Bibart
 
