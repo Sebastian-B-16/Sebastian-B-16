@@ -18,6 +18,10 @@ Skills: GO / C# / JavaScript / Python / UiPath / SQL /
 ![Profile views](https://gpvc.arturio.dev/Sebastian-B-16)  
 
 
+Special Thanks to @arturssmirnovs for making this ReadMe generator. 
+
+
+
 
 
 
