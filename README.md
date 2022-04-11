@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Sebastian-B-16
-- 👀 I’m interested in Software development and game development.
-- 🌱 Full Stack Developer .Net Developer 
-     ,RPA Developer with UiPath
-    , Go Software Developer
-- 💞️ I’m looking to collaborate on game development projects
-- 📫 How to reach me Linkedln - Sebastian Bibart
+### Hi there 👋, My name is Sebastian
+#### I am Go Software Developer.
+As a highly passionate for Software Development, I consider myself a capable person, that is able to adapt and overcome any situation. 
+I`m currently interested  mainly on Golang, but I have some prior experience with C# for Back-End development, RPA Software Development with UiPath and overall flexible and highly adaptive to the requirements, having some knowledge on Front-End CSS/HTML/JS 
+
+Skills: GO / C# / JavaScript / Python / UiPath / SQL / 
+
+
+
+
+
+
+
 
 <!---
 Sebastian-B-16/Sebastian-B-16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
