@@ -1,9 +1,8 @@
-### Hi there 👋, My name is Sebastian
-#### I am Go Software Developer.
-As a highly passionate for Software Development, I consider myself a capable person, that is able to adapt and overcome any situation. 
-I`m currently interested  mainly on Golang, but I have some prior experience with C# for Back-End development, RPA Software Development with UiPath and overall flexible and highly adaptive to the requirements, having some knowledge on Front-End CSS/HTML/JS 
+### RPA Developer
+.Net Full Stack developer
+####  
 
-Skills: GO / C# / JavaScript / Python / UiPath / SQL / 
+Skills: UiPath | VBA | C# | GO | JavaScript | React | HTML&CSS 
 
 - 🌱 I’m currently learning Golang 
 - 👯 I’m looking to collaborate on Golang Projects  
